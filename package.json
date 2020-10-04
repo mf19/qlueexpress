@@ -1,0 +1,23 @@
+{
+  "name": "qlueexpress",
+  "version": "1.0.0",
+  "description": "qlue test back end",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mf19/qlueexpress.git"
+  },
+  "author": "Moh Furqon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mf19/qlueexpress/issues"
+  },
+  "homepage": "https://github.com/mf19/qlueexpress#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
